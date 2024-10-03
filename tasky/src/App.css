@@ -93,3 +93,10 @@ button {
   left: 5px;
   color: green;
 }
+
+.deleteButton {
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+  color:red;
+}
