@@ -77,6 +77,13 @@ div {
   font-style: italic;
 }
 
+.priority {
+  font-weight: bold;
+  margin: 8px;
+  padding: 5px;
+  border-radius: 4px;
+}
+
 button {
   border: none;
   border-radius: 3px;
@@ -101,7 +108,7 @@ button {
   color:red;
 }
 
-input[type=text], input[type=date] {
+input[type=text], input[type=date], select {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
